@@ -1,4 +1,4 @@
-# Projeto Desafio Cientista de Dados - LH_CD_SEUNOME
+# Projeto Desafio Cientista de Dados - Lucas Sales
 
 ## Sumário
 - [Introdução](#introdução)
